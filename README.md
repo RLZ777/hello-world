@@ -1,2 +1,3 @@
 # hello-world
-This is a new GitHub Repository for myself. 
+Hello All. I am truly a newbie at this Git-Hub environment. 
+
